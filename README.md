@@ -1,9 +1,10 @@
 ## PROYECTO DESTACADO (Vercetti Properties)
 
-Web desarrollada con PHP, HTML, CSS, JavaScript y SQL.
+Este proyecto ha sido desarrollado con PHP, HTML, CSS, JavaScript y MySQL.
 
 Enlace a la web: [Ver proyecto] https://vercettiproperties.infinityfreeapp.com
-📁 Código fuente: [Repositorio](TU_REPO)
+
+Código fuente: [Repositorio](TU_REPO)
 
 Vercetti Properties es un proyecto creado con fines académicos y de portfolio inspirado en GTA: Vice City © Rockstar Games. Tommy Vercetti, Vice City 
 <!--
