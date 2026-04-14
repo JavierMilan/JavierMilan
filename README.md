@@ -1,12 +1,22 @@
-## PROYECTO DESTACADO (Vercetti Properties)
+PROYECTO DESTACADO
+# Vercetti Properties
 
-Este proyecto ha sido desarrollado con PHP, HTML, CSS, JavaScript y MySQL.
+Vercetti Properties es una aplicación web desarrollada con fines académicos y como proyecto de portfolio.
 
-Enlace a la web: [Ver proyecto] https://vercettiproperties.infinityfreeapp.com
+[Ver proyecto](https://vercettiproperties.infinityfreeapp.com)  
 
-Código fuente: [Repositorio](TU_REPO)
+Código fuente: [Repositorio](AQUÍ_TU_ENLACE)
 
-Vercetti Properties es un proyecto creado con fines académicos y de portfolio inspirado en GTA: Vice City © Rockstar Games. Tommy Vercetti, Vice City 
+El proyecto está inspirado en la estética de *GTA: Vice City* © Rockstar Games, incorporando referencias visuales y creativas al universo de Vice City y a personajes emblemáticos como Tommy Vercetti.
+
+## Tecnologías utilizadas
+- PHP
+- HTML
+- CSS
+- JavaScript
+- MySQL
+
+Proyecto desarrollado como parte de mi formación en desarrollo web, con especial interés en el área front-end y en la identidad visual.
 <!--
 **JavierMilan/JavierMilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
