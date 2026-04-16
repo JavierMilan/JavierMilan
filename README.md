@@ -5,7 +5,7 @@ Vercetti Properties es una Inmobiliaria web desarrollada con fines académicos y
 
 [Ver proyecto](https://vercettiproperties.infinityfreeapp.com)  
 
-Código fuente: [Repositorio](https://github.com/JavierMilan/Inmobiliaria-Vercetti-Properties)
+Código fuente: [Repositorio](https://github.com/JavierMilan/InmobiliariaVercettiProperties)
 
 El proyecto está inspirado en la estética de GTA: Vice City de Rockstar Games, incorporando referencias visuales del universo de Vice City.
 
