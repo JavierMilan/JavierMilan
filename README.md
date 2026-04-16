@@ -3,7 +3,7 @@ PROYECTO DESTACADO
 
 Vercetti Properties es una Inmobiliaria web desarrollada con fines académicos y como proyecto de portfolio.
 
-[Ver proyecto](https://vercettiproperties.infinityfreeapp.com)  
+[Ver proyecto]([https://vercettiproperties.infinityfreeapp.com/propiedades.php])  
 
 Código fuente: [Repositorio](https://github.com/JavierMilan/InmobiliariaVercettiProperties)
 
